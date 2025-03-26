@@ -1,2 +1,2 @@
-# Mr-Khan-Technology-
-Free web development and management 
+# Mr-Khan-Technology
+Free web development and management. 
